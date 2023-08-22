@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+header, ul, a {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+header .logo {
+    flex: 1;
+}
+
+.hero {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    
+}
+
+.hero .title {
+    font-size: 48px;
+    font-weight: bolder;
+}
